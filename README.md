@@ -13,9 +13,9 @@ My education has led me to develop a passion for cybersecurity and I am  eager t
 ## Projects
 
 
-| Skill                                         | Associated Project         |
+| Project                                        | Link       |
 |-----------------------------------------------|----------------------------|
-| In Progress          | In Progress|
+| Kali Linux Keylogger         | (https://github.com/seank4/kali-keylogger/tree/main)|
 | In Progress | In Progress|
 | In Progress        | In Progress|
 | In Progress     | In Progress|
