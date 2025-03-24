@@ -10,7 +10,7 @@ I am a recent college graduate with a degree in cybersecurity and information as
 
 My education has led me to develop a passion for cybersecurity and I am  eager to enter into the field, specifically aiming to become a Cyber Security Analyst.
 
-## Skills
+## Projects
 
 
 | Skill                                         | Associated Project         |
