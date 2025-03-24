@@ -56,6 +56,4 @@ My education has led me to develop a passion for cybersecurity and I am  eager t
 <img src="https://img.shields.io/badge/-SSCP-1F77B4?&style=for-the-badge&logo=ISC2&logoColor=white" />
 </div>
 
-## Projects
-- In Progress
-- In Progress
+
