@@ -15,7 +15,7 @@ My education has led me to develop a passion for cybersecurity and I am  eager t
 
 | Skill                                        | Project       |
 |-----------------------------------------------|----------------------------|
-| Kali Linux Keylogger         | (https://github.com/seank4/kali-keylogger/tree/main)|
+| SIEM and Log Analysis        | |
 | In Progress | In Progress|
 | In Progress        | In Progress|
 | In Progress     | In Progress|
