@@ -17,7 +17,7 @@ My education has led me to develop a passion for cybersecurity and I am  eager t
 |-----------------------------------------------|----------------------------|
 | SIEM and Log Analysis        |[Azure SIEM](https://github.com/seank4/Azure-SIEM)|
 | Data Visualization | Cybersecurity Risk Dashboard|
-| In Progress        | In Progress|
+| AI Prediction Model       | In Progress|
 | In Progress     | In Progress|
 
 
