@@ -16,7 +16,7 @@ My education has led me to develop a passion for cybersecurity and I am  eager t
 | Skill                                        | Project       |
 |-----------------------------------------------|----------------------------|
 | SIEM and Log Analysis        |[Azure SIEM](https://github.com/seank4/Azure-SIEM)|
-| Data Analysis and Visualization | [Premier League Dashboard](https://github.com/seank4/Premier-League-Analytics-Dashboard)|
+| Data Analysis and Visualization |[Premier League Dashboard](https://github.com/seank4/Premier-League-Analytics-Dashboard)|
 | AI Prediction Model       | In Progress|
 | In Progress     | In Progress|
 
