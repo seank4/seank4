@@ -5,10 +5,6 @@
 I am a recent college graduate with a degree in cybersecurity and information assurance.
 
 
-## Objective
-
-
-My education has led me to develop a passion for cybersecurity and I am  eager to enter into the field.
 
 ## Projects
 
